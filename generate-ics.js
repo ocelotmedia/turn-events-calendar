@@ -206,7 +206,7 @@ async function main() {
     'END:VCALENDAR',
   ].join('\r\n');
 
-  const outPath = path.join(__dirname, 'events.ics');
+  const outPath = path.join(__dirname, 'turn-events.ics');
   fs.writeFileSync(outPath, ics, 'utf8');
   console.log(`  Written to ${outPath}`);
 }
