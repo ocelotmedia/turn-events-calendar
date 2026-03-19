@@ -34,23 +34,45 @@ async function fetchAll() {
 
 // ── Date helpers ─────────────────────────────────────────────
 function addDays(date, n) {
-  const d = new Date(date); d.setDate(d.getDate() + n); return d;
+  const d = new Date(date); d.setUTCDate(d.getUTCDate() + n); return d;
 }
 function addMonths(date, n) {
-  const d = new Date(date); d.setMonth(d.getMonth() + n); return d;
+  const d = new Date(date); d.setUTCMonth(d.getUTCMonth() + n); return d;
 }
+
+// Extract date/time parts in Pacific time (works correctly on UTC servers)
+function pacificParts(date) {
+  const parts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Los_Angeles',
+    year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', hour12: false,
+  }).formatToParts(date);
+  return Object.fromEntries(parts.map(({ type, value }) => [type, value]));
+}
+
+// Pacific date as YYYY-MM-DD (for cancelled-date matching and UIDs)
 function toYMD(date) {
-  return date.toISOString().slice(0, 10);
+  const p = pacificParts(date);
+  return `${p.year}-${p.month}-${p.day}`;
 }
 
 // ── ICS formatting ───────────────────────────────────────────
 const pad = n => String(n).padStart(2, '0');
 
+// Pacific local time string for DTSTART/DTEND (TZID=America/Los_Angeles)
 function fmtIcsLocal(date) {
-  return `${date.getFullYear()}${pad(date.getMonth()+1)}${pad(date.getDate())}T${pad(date.getHours())}${pad(date.getMinutes())}00`;
+  const p = pacificParts(date);
+  const hour = p.hour === '24' ? '00' : p.hour; // guard against midnight edge case
+  return `${p.year}${p.month}${p.day}T${hour}${p.minute}00`;
 }
+// Pacific date string for all-day events
 function fmtIcsDate(date) {
-  return `${date.getFullYear()}${pad(date.getMonth()+1)}${pad(date.getDate())}`;
+  const p = pacificParts(date);
+  return `${p.year}${p.month}${p.day}`;
+}
+// UTC timestamp string for DTSTAMP (always UTC, Z suffix added by caller)
+function fmtUtcStamp(date) {
+  return date.toISOString().replace(/[-:.Z]/g, '').slice(0, 15);
 }
 function escIcs(s) {
   return String(s || '')
@@ -142,7 +164,7 @@ function buildVEvent(ev) {
   const lines = ['BEGIN:VEVENT'];
 
   lines.push(`UID:${ev.uid}`);
-  lines.push(`DTSTAMP:${fmtIcsLocal(new Date())}Z`);
+  lines.push(`DTSTAMP:${fmtUtcStamp(new Date())}Z`);
 
   if (ev.allDay) {
     lines.push(`DTSTART;VALUE=DATE:${fmtIcsDate(ev.start)}`);
