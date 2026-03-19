@@ -8,9 +8,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-03-21@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260321T170000
-DTEND;TZID=America/Los_Angeles:20260321T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260321T100000
+DTEND;TZID=America/Los_Angeles:20260321T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -18,19 +18,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-03-24@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260324T010000
-DTEND;TZID=America/Los_Angeles:20260324T023000
+UID:recJ10dZwQVawsGgY-2026-03-23@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260323T180000
+DTEND;TZID=America/Los_Angeles:20260323T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:rechOBXtERU5h4LSq-single@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260328T160000
-DTEND;TZID=America/Los_Angeles:20260328T183000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260328T090000
+DTEND;TZID=America/Los_Angeles:20260328T113000
 SUMMARY:No Kings Protest
 DESCRIPTION:9-10am: Music & Speakers at Universal Plaza\n10am: Begin the ma
  rch down 99W\, stand along 99W with your signs and costumes
@@ -39,9 +39,9 @@ URL:https://www.wethepeopletigardarea.org/new-page
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-03-28@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260328T170000
-DTEND;TZID=America/Los_Angeles:20260328T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260328T100000
+DTEND;TZID=America/Los_Angeles:20260328T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -49,19 +49,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-03-31@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260331T010000
-DTEND;TZID=America/Los_Angeles:20260331T023000
+UID:recJ10dZwQVawsGgY-2026-03-30@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260330T180000
+DTEND;TZID=America/Los_Angeles:20260330T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-04-04@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260404T170000
-DTEND;TZID=America/Los_Angeles:20260404T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260404T100000
+DTEND;TZID=America/Los_Angeles:20260404T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -69,19 +69,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-04-07@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260407T010000
-DTEND;TZID=America/Los_Angeles:20260407T023000
+UID:recJ10dZwQVawsGgY-2026-04-06@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260406T180000
+DTEND;TZID=America/Los_Angeles:20260406T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-04-11@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260411T170000
-DTEND;TZID=America/Los_Angeles:20260411T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260411T100000
+DTEND;TZID=America/Los_Angeles:20260411T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -89,19 +89,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-04-14@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260414T010000
-DTEND;TZID=America/Los_Angeles:20260414T023000
+UID:recJ10dZwQVawsGgY-2026-04-13@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260413T180000
+DTEND;TZID=America/Los_Angeles:20260413T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-04-18@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260418T170000
-DTEND;TZID=America/Los_Angeles:20260418T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260418T100000
+DTEND;TZID=America/Los_Angeles:20260418T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -109,19 +109,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-04-21@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260421T010000
-DTEND;TZID=America/Los_Angeles:20260421T023000
+UID:recJ10dZwQVawsGgY-2026-04-20@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260420T180000
+DTEND;TZID=America/Los_Angeles:20260420T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-04-25@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260425T170000
-DTEND;TZID=America/Los_Angeles:20260425T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260425T100000
+DTEND;TZID=America/Los_Angeles:20260425T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -129,19 +129,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-04-28@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260428T010000
-DTEND;TZID=America/Los_Angeles:20260428T023000
+UID:recJ10dZwQVawsGgY-2026-04-27@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260427T180000
+DTEND;TZID=America/Los_Angeles:20260427T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-05-02@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260502T170000
-DTEND;TZID=America/Los_Angeles:20260502T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260502T100000
+DTEND;TZID=America/Los_Angeles:20260502T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -149,19 +149,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-05-05@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260505T010000
-DTEND;TZID=America/Los_Angeles:20260505T023000
+UID:recJ10dZwQVawsGgY-2026-05-04@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260504T180000
+DTEND;TZID=America/Los_Angeles:20260504T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-05-09@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260509T170000
-DTEND;TZID=America/Los_Angeles:20260509T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260509T100000
+DTEND;TZID=America/Los_Angeles:20260509T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -169,19 +169,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-05-12@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260512T010000
-DTEND;TZID=America/Los_Angeles:20260512T023000
+UID:recJ10dZwQVawsGgY-2026-05-11@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260511T180000
+DTEND;TZID=America/Los_Angeles:20260511T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-05-16@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260516T170000
-DTEND;TZID=America/Los_Angeles:20260516T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260516T100000
+DTEND;TZID=America/Los_Angeles:20260516T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -189,19 +189,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-05-19@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260519T010000
-DTEND;TZID=America/Los_Angeles:20260519T023000
+UID:recJ10dZwQVawsGgY-2026-05-18@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260518T180000
+DTEND;TZID=America/Los_Angeles:20260518T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-05-23@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260523T170000
-DTEND;TZID=America/Los_Angeles:20260523T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260523T100000
+DTEND;TZID=America/Los_Angeles:20260523T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -209,19 +209,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-05-26@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260526T010000
-DTEND;TZID=America/Los_Angeles:20260526T023000
+UID:recJ10dZwQVawsGgY-2026-05-25@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260525T180000
+DTEND;TZID=America/Los_Angeles:20260525T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-05-30@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260530T170000
-DTEND;TZID=America/Los_Angeles:20260530T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260530T100000
+DTEND;TZID=America/Los_Angeles:20260530T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -229,19 +229,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-06-02@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260602T010000
-DTEND;TZID=America/Los_Angeles:20260602T023000
+UID:recJ10dZwQVawsGgY-2026-06-01@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260601T180000
+DTEND;TZID=America/Los_Angeles:20260601T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-06-06@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260606T170000
-DTEND;TZID=America/Los_Angeles:20260606T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260606T100000
+DTEND;TZID=America/Los_Angeles:20260606T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -249,19 +249,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-06-09@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260609T010000
-DTEND;TZID=America/Los_Angeles:20260609T023000
+UID:recJ10dZwQVawsGgY-2026-06-08@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260608T180000
+DTEND;TZID=America/Los_Angeles:20260608T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-06-13@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260613T170000
-DTEND;TZID=America/Los_Angeles:20260613T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260613T100000
+DTEND;TZID=America/Los_Angeles:20260613T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -269,19 +269,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-06-16@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260616T010000
-DTEND;TZID=America/Los_Angeles:20260616T023000
+UID:recJ10dZwQVawsGgY-2026-06-15@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260615T180000
+DTEND;TZID=America/Los_Angeles:20260615T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-06-20@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260620T170000
-DTEND;TZID=America/Los_Angeles:20260620T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260620T100000
+DTEND;TZID=America/Los_Angeles:20260620T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -289,19 +289,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-06-23@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260623T010000
-DTEND;TZID=America/Los_Angeles:20260623T023000
+UID:recJ10dZwQVawsGgY-2026-06-22@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260622T180000
+DTEND;TZID=America/Los_Angeles:20260622T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-06-27@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260627T170000
-DTEND;TZID=America/Los_Angeles:20260627T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260627T100000
+DTEND;TZID=America/Los_Angeles:20260627T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -309,19 +309,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-06-30@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260630T010000
-DTEND;TZID=America/Los_Angeles:20260630T023000
+UID:recJ10dZwQVawsGgY-2026-06-29@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260629T180000
+DTEND;TZID=America/Los_Angeles:20260629T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-07-04@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260704T170000
-DTEND;TZID=America/Los_Angeles:20260704T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260704T100000
+DTEND;TZID=America/Los_Angeles:20260704T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -329,19 +329,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-07-07@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260707T010000
-DTEND;TZID=America/Los_Angeles:20260707T023000
+UID:recJ10dZwQVawsGgY-2026-07-06@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260706T180000
+DTEND;TZID=America/Los_Angeles:20260706T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-07-11@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260711T170000
-DTEND;TZID=America/Los_Angeles:20260711T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260711T100000
+DTEND;TZID=America/Los_Angeles:20260711T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -349,19 +349,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-07-14@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260714T010000
-DTEND;TZID=America/Los_Angeles:20260714T023000
+UID:recJ10dZwQVawsGgY-2026-07-13@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260713T180000
+DTEND;TZID=America/Los_Angeles:20260713T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-07-18@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260718T170000
-DTEND;TZID=America/Los_Angeles:20260718T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260718T100000
+DTEND;TZID=America/Los_Angeles:20260718T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -369,19 +369,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-07-21@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260721T010000
-DTEND;TZID=America/Los_Angeles:20260721T023000
+UID:recJ10dZwQVawsGgY-2026-07-20@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260720T180000
+DTEND;TZID=America/Los_Angeles:20260720T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-07-25@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260725T170000
-DTEND;TZID=America/Los_Angeles:20260725T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260725T100000
+DTEND;TZID=America/Los_Angeles:20260725T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -389,19 +389,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-07-28@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260728T010000
-DTEND;TZID=America/Los_Angeles:20260728T023000
+UID:recJ10dZwQVawsGgY-2026-07-27@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260727T180000
+DTEND;TZID=America/Los_Angeles:20260727T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-08-01@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260801T170000
-DTEND;TZID=America/Los_Angeles:20260801T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260801T100000
+DTEND;TZID=America/Los_Angeles:20260801T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -409,19 +409,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-08-04@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260804T010000
-DTEND;TZID=America/Los_Angeles:20260804T023000
+UID:recJ10dZwQVawsGgY-2026-08-03@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260803T180000
+DTEND;TZID=America/Los_Angeles:20260803T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-08-08@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260808T170000
-DTEND;TZID=America/Los_Angeles:20260808T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260808T100000
+DTEND;TZID=America/Los_Angeles:20260808T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -429,19 +429,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-08-11@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260811T010000
-DTEND;TZID=America/Los_Angeles:20260811T023000
+UID:recJ10dZwQVawsGgY-2026-08-10@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260810T180000
+DTEND;TZID=America/Los_Angeles:20260810T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-08-15@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260815T170000
-DTEND;TZID=America/Los_Angeles:20260815T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260815T100000
+DTEND;TZID=America/Los_Angeles:20260815T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -449,19 +449,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-08-18@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260818T010000
-DTEND;TZID=America/Los_Angeles:20260818T023000
+UID:recJ10dZwQVawsGgY-2026-08-17@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260817T180000
+DTEND;TZID=America/Los_Angeles:20260817T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-08-22@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260822T170000
-DTEND;TZID=America/Los_Angeles:20260822T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260822T100000
+DTEND;TZID=America/Los_Angeles:20260822T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -469,19 +469,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-08-25@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260825T010000
-DTEND;TZID=America/Los_Angeles:20260825T023000
+UID:recJ10dZwQVawsGgY-2026-08-24@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260824T180000
+DTEND;TZID=America/Los_Angeles:20260824T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-08-29@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260829T170000
-DTEND;TZID=America/Los_Angeles:20260829T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260829T100000
+DTEND;TZID=America/Los_Angeles:20260829T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -489,19 +489,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-09-01@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260901T010000
-DTEND;TZID=America/Los_Angeles:20260901T023000
+UID:recJ10dZwQVawsGgY-2026-08-31@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260831T180000
+DTEND;TZID=America/Los_Angeles:20260831T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-09-05@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260905T170000
-DTEND;TZID=America/Los_Angeles:20260905T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260905T100000
+DTEND;TZID=America/Los_Angeles:20260905T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -509,19 +509,19 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-09-08@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260908T010000
-DTEND;TZID=America/Los_Angeles:20260908T023000
+UID:recJ10dZwQVawsGgY-2026-09-07@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260907T180000
+DTEND;TZID=America/Los_Angeles:20260907T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
 END:VEVENT
 BEGIN:VEVENT
 UID:recmXBRWIXtMCRKlc-2026-09-12@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260912T170000
-DTEND;TZID=America/Los_Angeles:20260912T180000
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260912T100000
+DTEND;TZID=America/Los_Angeles:20260912T110000
 SUMMARY:Umbrella Protest
 DESCRIPTION:A weekly protest with We the People\, Tigard Area\, part of Ind
  ivisible Oregon. Rain or shine\, join us!
@@ -529,10 +529,10 @@ LOCATION:Corner of 99W & Durham in King City\, OR
 URL:https://www.wethepeopletigardarea.org/new-page-2
 END:VEVENT
 BEGIN:VEVENT
-UID:recJ10dZwQVawsGgY-2026-09-15@turn-tigard
-DTSTAMP:20260319T222700Z
-DTSTART;TZID=America/Los_Angeles:20260915T010000
-DTEND;TZID=America/Los_Angeles:20260915T023000
+UID:recJ10dZwQVawsGgY-2026-09-14@turn-tigard
+DTSTAMP:20260319T223315Z
+DTSTART;TZID=America/Los_Angeles:20260914T180000
+DTEND;TZID=America/Los_Angeles:20260914T193000
 SUMMARY:TURN Meeting
 DESCRIPTION:Weekly meeting for Tigard United Resistance Network
 LOCATION:Senet Game Bar\, 12553 SW Main St #201\, Tigard\, OR 97223
