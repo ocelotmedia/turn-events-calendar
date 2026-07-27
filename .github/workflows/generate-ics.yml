@@ -1,7 +1,7 @@
 name: Generate ICS Calendar Feed
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/1 * * * *"
   push:
     branches:
       - main
